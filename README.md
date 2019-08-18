@@ -11,3 +11,6 @@ http://hacks4ros.github.io/h4r_ev3_ctrl/index.html#GettingStarted
 1st partition 100MB FAT32
 2nd partition ~7.7GB ext4
 
+https://github.com/mikaelv/rosev3
+
+
